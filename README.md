@@ -1,2 +1,2 @@
 # LV1 Dizajn OOP
- Antonio Susnjara predaj zadace
+ Antonio Susnjara predaja zadace
